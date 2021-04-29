@@ -31,8 +31,6 @@ function changeSlide(sliderEl, value) {
     return { destroy: destroyFn };
   }
   
-  createSlider("#slider-1");
-  createSlider("#slider-2");
   
   //const slider2 = createSlider("#slider-2");
   // slider2.destroy();
